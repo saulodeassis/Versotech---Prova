@@ -1,2 +1,4 @@
-
-/prova-php-entrevista-saulo-fernandes
+.phpintel
+/vendor
+.env
+.idea
